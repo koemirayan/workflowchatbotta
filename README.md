@@ -60,6 +60,3 @@ Workflow ini terdiri dari beberapa jalur logika utama:
 * **Efisiensi Waktu**: Mengurangi tanya jawab repetitif dengan mahasiswa.
 * **Digitalisasi Otomatis**: Formulir fisik langsung masuk ke database digital tanpa input manual.
 * **Transparansi**: Mahasiswa mendapatkan informasi status administrasi secara mandiri dan cepat.
-
----
-*Dibuat oleh [Nama Anda/Prodi Anda]. Terinspirasi dari kebutuhan administrasi Program Studi Sains Data ITERA.*
